@@ -1,3 +1,23 @@
+# project path in windows 
+ C:\Code\geoserver
+ 
+This should be the project path in order to parse the code.
+
+# database
+
+database/ folder contains the the rdb model database from Enterprise Architect project and JPDSP parsed super db model
+
+# To clone project
+ 
+- create a folder name "Code" in C drive i.e C:\Code
+- open cmd and navigate to C:\Code folder. 
+- Run the command "git clone https://github.com/ReverseEngineeringCUILahore/geoserver.git"
+- It will clone the project in C:\Code\geoserver
+
+- NOTE: In order to parse the code with super DB Model, this code should be in above defined path
+
+
+
 <img src="/doc/en/themes/geoserver/static/GeoServer_500.png" width="353">
 
 [![Gitter](https://badges.gitter.im/geoserver/geoserver.svg)](https://gitter.im/geoserver/geoserver?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -52,4 +72,5 @@ Please read [the contribution guidelines](https://github.com/geoserver/geoserver
 
 Visit the [website](http://geoserver.org/) or read the [docs](http://docs.geoserver.org/). 
 
+"# geoserver" 
 "# geoserver" 
